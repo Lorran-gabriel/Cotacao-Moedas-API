@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime
 
 # Caminho fixo onde o banco será salvo
-caminho_pasta = r"C:\Users\viana\OneDrive\Documentos\Python Scripts\Sistemas distribuídos e mobile\atv2"
+caminho_pasta = r"C:\Users/lorran\Documentos\Python Scripts\Sistemas distribuídos e mobile\atv2"
 os.makedirs(caminho_pasta, exist_ok=True)  # garante que a pasta exista
 
 # Caminho completo do banco
